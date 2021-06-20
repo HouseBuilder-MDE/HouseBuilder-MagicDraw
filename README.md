@@ -1,0 +1,2 @@
+# HouseBuilder-MagicDraw
+UML representation
